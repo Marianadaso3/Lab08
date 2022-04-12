@@ -1,0 +1,36 @@
+@import 'https://fonts.googleapis.com/css?family=Rubik+One';
+
+header {
+    height: 50px;
+    border: 1px solid purple;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.titulo {
+    font-size: 25px;
+    padding: 10px;
+    color: #ffff;
+}
+
+.boton-reiniciar {
+    position: absolute;
+    align-content: center;
+    border: 1px solid rgb(239, 184, 194);
+    display: inline-block; 
+	padding: 20px 40px;
+	color: rgb(255, 255, 255);
+	position: absolute;
+	top: 50%;
+	left: 13%;
+	transform: translate(-50%, -50%);
+	vertical-align: middle;
+	font-family: 'Rubik One', sans-serif;
+	text-decoration: none;
+	font-size: 3vw;
+	transition: all .5s;
+	background-color: #e84d4d;
+  
+}
