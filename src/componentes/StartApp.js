@@ -85,7 +85,7 @@ class StartApp extends Component {
 
   //funcion para comrprobar si gano
   verificarSiHayGanador() {
-    if (this.state.parejasAdivinadas === 8) {
+    if (this.state.parejasAdivinadas === 10) {
       alert(`Ganaste en ${this.state.numeroDeIntentos} intentos!`);
     }
   }
