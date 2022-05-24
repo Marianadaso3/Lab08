@@ -8,3 +8,5 @@ Acciones:
 
 ----------------------
 Para ver en funcionamiento el laboratorio: 
+http://54.161.148.179:3008/
+
